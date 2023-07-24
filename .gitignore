@@ -1,0 +1,5 @@
+archive/
+
+model_CNN_20epochs.keras
+
+model_faceforensics_10epochs.keras
